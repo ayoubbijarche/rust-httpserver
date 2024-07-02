@@ -1,1 +1,4 @@
-# rust-httpserver
+# A simple rust-httpserver
+
+run using
+### --cargo run --release
